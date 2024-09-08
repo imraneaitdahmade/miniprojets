@@ -102,7 +102,8 @@ for(r=0;r<=i;r++){
             strcpy(c[e].nom,c[e+1].nom);
             strcpy(c[e].email,c[e+1].email);
             strcpy(c[e].number,c[e+1].number);
-    
+        printf("QLLLO \n");
+
         }
         i--;
         printf("le contact est suprimer \n");
